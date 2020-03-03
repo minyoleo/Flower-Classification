@@ -1,7 +1,7 @@
 # Flower classification
 
 ### Task
-Design and train a deep convolutional network to predict the class label of a flower image. 
+Design and train a deep convolutional network to predict the class label of a flower image.  
 Use a pre-trained model(ResNet50) and fine-tune it on the flower images.
 
 ### Data
